@@ -160,4 +160,4 @@ struct kv_snapshot_message {
 
 ## Authors
 
-Developed by **Jonathan Westling** and **Algot Graner**.
+Developed by **@jonatanwestling** and **@algotgraner**.
